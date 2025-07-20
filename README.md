@@ -1,3 +1,5 @@
+NAME: GARV PUROHIT INTERNSHIP @ CODETECH IT SOLUTIONS DOMAIN: ANDROID DEVELOPMENT DURATION: 20th June 2025 to 20th July 2025 
+Overview of the Projects:
 # Media Player App
 This is a simple Android Media Player application developed as part of **CODTECH Internship – Task 2**.  
 The app plays `.mp3` audio files from the device’s local storage and provides basic playback controls.
